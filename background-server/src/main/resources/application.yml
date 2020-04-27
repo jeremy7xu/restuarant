@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url:
+    name:
+    password:
+
+
+  profiles:
+    active: test
